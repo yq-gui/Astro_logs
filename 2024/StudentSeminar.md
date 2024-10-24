@@ -1,0 +1,161 @@
+## 9.20 - AGN wind
+by **Chunyang Jiang, Ruixuan Tian and Zihao Li**
+-  classification: 
+    - intensity: Radio "quiet" / "loud"
+    - emission lines: rare/ broad/ narrow lines
+    - unified model
+- broad-band contimuum
+    (from low frequency to high)
+    - dusty torus
+    - accretion disc
+    - "soft excess"
+        - inverse Compton scattering - hard X-ray
+        - Compton csattering - soft X-ray
+    - hot corona
+- Broad/Narrow Line
+    - doppler broaden
+        - BLR Broad Absoption Lines: 10-1000 light days from center, v=1000-2000km/s
+        - NLR Narrow Absoption Lines: 100-300 pc from center, v=300-1000km/s
+- absorber
+    - outflow from AGN (AGN winds)
+        - **warm absorber** - C,O,N,Ne,Mg,Al,Si,S in soft X-ray spectra
+            - ionization parameter" $\xi=\frac{L_{ion}}{nr^2}$ , $\log\xi$= -1 - 3
+            - d = 0.1-1 pc
+            - narrow absorption
+        - Ultrafast outflows(UFOs)
+            - v/c ~ -0.25
+            - $\log\xi$=3-5
+            - v = 10000-70000 km/s
+            - d = 0.001 - 10 pc
+        - **transient obscuring winds** (in Type I)
+            - observation: 
+                - NGC 5548
+                    - soft X-ray is much weaker than normal AGN
+                    - broad UV absorption line (but usual is emission line)
+                    - two obscuring gas, close to BLR, 2-7 lds, v > 1000km/s
+                        - X-ray covering 86%
+                        - UV covering 30%
+                    - a spatially extended stream of cool gas
+                - NGC 3784: a hotter transient cloud, localized and closer to center, short duration, and low covering fraction
+            - properties
+                - multi-phase ionized
+                - v ~ 5000 km/s
+                - kinematic luminosity sufficienty high AGN feedback
+    
+## 9.27 - Magnetar
+by **Zechang Sun and Youquan Fu**
+##### Observational Facts on Magnetor
+- neutron stars
+    - strong magnetic field
+    - very hot (X ray band)
+    - spin very fast
+    - classification
+        - magnetar
+        - pulsar
+- magnetor
+    - a class of young neutron stars
+    - ~30 magnetars observed
+    - often of one or two components and stable pulse profiles
+- anomaly phenomenon
+    - glichies 脉冲突变 (sudden spin-up) and anti-glichies (sudden spin-down)
+    - bursts: few millisecond
+    - outbursts: a sudden but much longer tailed flux enhancement
+    - Giant Flares: quasi-periodic oscillation
+    - can be detected in the optical and radio bands
+- radiation spectrum
+    - burst spectra
+    - outbursts spectra: X-ray hard initially but turn to soft later
+    - persistent emission
+##### theory of magnetor
+- internal dynamics
+    - ambipolar diffusion
+    - hall drifts
+
+## 10.11 - Isolated quiescent dwarf galaxy
+by **Yifan Zheng and Jiyuan Zhang**
+##### PEARLSDG: 30Mpc
+- Star-forming and quenched galaixes
+    - quenching mechanism
+    - isolated quiescent dwarf galaxy is extremely rare
+- Observation of PEARLSDG
+    - JWST, SLOAN, etc.
+    - spectrum: Hgamma, Hbeta, Mg
+        - z= 0.0078
+        - v = 2340 $\pm$ 180 km/s
+    - Distance: 
+        - Method: TRGB (Helium flash as distance candle)
+        - 30.2 $\pm$ 0.4 Mpc
+    - SED fitting
+        - old, metal-poor stellar population
+##### Hedgehog: at 2.4Mpc
+- Observation:
+    - Lagacy Survey, Blanco Telescope, Magellan Baade Telescope, GALEX
+    - Distance:
+        - Method
+            - Tip of the Red-Giant Branch (TRGB)
+            - Surface Brightness Fluctuation (SBF)
+                - Possion noise/fluctuation
+                - Nstar $\propto$ (d * pixelsize) $^2$
+                - can do moch to check the **d**!
+                - result: 2.4 Mpc
+    - Environment
+        - no neighboring galaxies within 1 Mpc from Hedgehog
+        - 4-5 $R_{vir}$ awary from the Cen A group(neaest group)
+        - one of the most isolated quiescent dwarf galaxies
+        - satelleite-backsplash-isolated (from close to far from central galaxy)
+            - is not backsplash  (>2.5Mpc from central)
+            - 
+    - isolated ones tend to be **smaller** in size (may due to observation bias)
+    - star-forming?
+        - No UV emission detection -- 2 sigma upper limit on SFR
+        - quenching mechanism
+            - **reionization** may quench dwarfs with $M_\ast < 10^6M_\odot$
+
+## 10.18 - Cosmic magnatic field
+by **Jiaxin Tang and Qiyue Qian**
+- Motivation
+    - magnatic monopole
+- Constrains (Neronov&Vovk 2010)
+    - Zeeman effect - direct measurement
+    - CMB - primodrdial magnetic field effecting CMD
+    - Faraday rotation - rotation of a polariztation plane
+    - BBN - cosmic expansion rate
+    - Blazar - non-detection measurement
+- Cosmic void
+    - small-scale magnetic has no memory
+- Theory
+    - Dynamo theory
+        - seed magnetic field (may due to small scale)
+        - usually $\mu$G to mG
+        - strong correlation betweeen galaxy radio and infrared radiation
+    - Primodial magnetic field theory
+        - assuming uniform weak magnetic field (starting from the big bang), only amplified from the distortion
+        - theoretically is 10^-7 G, but observation is 10^-6 G (primordial B has to be at least 10^-18 G)
+        - supports
+            - deflection of gamma ray
+- prediction
+    - dynamo - even parity, primordial B - Odd parity
+    - Galacic scale? Cosmic Scale? 
+- Observation
+    - methods
+        - synchrotron emission
+            - decompose thermal& synchrotron in spectra
+        - faraday rotation
+            - rotation related to frequencies
+            - cum for electron density
+        - zeeman effect
+    - most are by synchrotron emission and faraday rotation
+        - instruments
+            - radio: LOFAR, FAST, VLA, Arecibo, GBT
+        - Galaxy 
+            - typical strength 1-10$\mu$G
+            - MW: 4-6$\mu$G
+            - solar neighbor ~5$\mu$G
+        - related to SFR
+            - turbulent field - positive correlation
+            - ordered field - no relation
+    - Zeeman effect
+        - polarization(stokes parameters) + narrow lines
+        - HI narrow self-absorption
+            - Zeeman probe for molecular gas : trace the transition from HI and H2
+        - Zeeman effect for composition
