@@ -1,5 +1,5 @@
-# Reports and talks about galaxy & cosmology
-###### note of special seminar/informal talk/galaxy&cosmology seminar/lunch talk/etc.
+# Note of talks about galaxy & cosmology
+##### From special seminar/informal talk/galaxy&cosmology seminar/lunch talk/etc.
 
 ## 2024 September
 ### Sept. 2 - Sept. 8

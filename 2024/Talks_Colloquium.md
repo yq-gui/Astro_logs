@@ -1,4 +1,6 @@
-# Reports and talks of DoA Colloquium
+# Note of talks of DoA Colloquium
+##### From colloquium once every week held by DoA
+
 ## 2024 September
 ### Sept. 2 - Sept. 8
 
