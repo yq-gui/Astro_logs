@@ -159,3 +159,291 @@ by **Jiaxin Tang and Qiyue Qian**
         - HI narrow self-absorption
             - Zeeman probe for molecular gas : trace the transition from HI and H2
         - Zeeman effect for composition
+
+## 10.25 - Mean motion of planetary orbit
+by **Sijia Cai, Haibing Ren and Zhecheng Hu**
+### Resonances
+- Resonances in solar system
+    - neptum and pluto : 3:2
+    - Asteroid main-belt distribution : influenced by Jupiter
+- mean motion resonance
+    - definition: n = 2\pi/P
+    - n1/n2 = (j+o) /j, j is resonance order
+        - e.g. 2:1 are 1st order
+    - resonance angle
+        - $\phi_{res} = (j+o)\lambda_2-j\lambda_1-\omega$
+        - resonance angle fixed or variate in small range : resonant
+    - resonance strength $\propto e^{order}$, so lower order are more common (espcially at low eccentricity)
+- resonances in exoplanet systems
+    - Methodology
+        - Kepler: 150k stars
+        - TESS: 400 times larger than Kepler
+    - silghtly off-resonant pairs in observations
+        - explaination: see below
+- resonances form in protoplanetary disk
+    - obrit migration leads to capture/break resonance
+        - tidal dampling
+        - disk migration
+### Convergent Migration --Mean Motion Resonace Capture
+- planet in protoplanetary disk
+    - Cloud collapse -- star (Jeans instability)
+    - Migration in disk
+        - Type I: the small planet diesn't open a gap
+        - Type II: massive planet and will open a gap
+        - Type III: run away migration
+    - Lindblad torque
+            - Lindblad resonance for Keplerian disk
+            - the outer torque is closer and negative: dominate
+        - Corotation torque
+            - positive torque dominate
+        Usually Lindblad torque > Corotation torque, so planet rotates inward
+    - convergent migration
+
+### Breaks the chains: from resonant chains to keplerian planets
+- why are  many planet systems not resonant?
+    - 1st order resonance occur just 15%
+    - Break-the-Chains model
+        - resonant chain forming is universal, however multi-planet systems themselves are not always stable due to orbital crossing
+        - bimodel distribution: **one or many** planets in a planet system
+- when are planet systems not resonant?
+    - <0.1Gyr: 80% pairs is resonant
+    - $>$1Gyr : only <30%
+    ==> ~Gyr
+- How do planet systems become not resonant?
+    - mass loss of atmosphere: photoevaporation due to XUV heating by stars
+    - born with instability
+
+## 11.1 - Dark energy constraints from Baryon Acoustic Oscillation
+by **Qinnan Zhu, Jiayi Chen and Yao Zhang**
+### concept and theory of dark energy & common observational probes
+- Einstein' equation and accelerating expasion
+    - dark energy
+    - Theory
+        - dynamical dark energy
+            - phantom
+            - quintessence
+    - Probes
+        - CMB
+            - curvature: influence power spectrum shape
+            - dark energy density: influence power spectrum left and right
+            - equation of state: influence power spectrum up and down
+        - SNIa
+            - Dl = (1+z)DM
+        - BAO
+        - galaxy clustering
+        - weak lensing
+### using BAO dark energy properties
+- BAO: peaked at 150 Mpc
+- spectroscopic sky survey - redshift and celestial coordiants
+- How does BAO constrains cosmological parameters?
+    - $D_M(z) = \theta_{BAO} * r_d$
+    - $r_d = c\delta z_{BAO}/H(z)$, $D_H = c/H(z)$ ==> $\delta z_{BAO} = r_d / D_H(z)$
+
+    - define scaling parameters $\alpha_{||}= \frac{D_H(z)/r_d}{D_H^{fid}(z)/r^{fid}_d}$,$\alpha_{\perp}= \frac{D_M(z)/r_d}{D_M^{fid}(z)/r^{fid}_d}$
+    - observables: BAO monople $\alpha_{iso} = (\alpha_{\perp}^2\alpha_{||})^{1/3}$ and BAO quadraple $\alpha_{AP} = \alpha_{\perp}/\alpha_{||}$
+    ==> $\frac{H(z)}{H_0}$
+- Observation : DESI
+### dark energy constraints from BAO
+- DESI
+    - 5 target classes
+        - Bright Galaxiess
+        - Luminous red galaxies
+        - Emission line galaxies
+        - Quasars
+        - Lyman-alpha forest
+- 2PCF
+    - Density field reconstruction
+- fitting
+    - 12 data points (monople:7 + quadraple:5)
+    - model
+        - LCDM model 
+        - wCDM model
+        - w_0w_aCDM
+            - w = w_0 + w_a(1-a)
+            - DESI: w_a increases with time
+
+## 11.8 - Cosmic-ray feedback
+by **Jin Qin and Pengjun Lu**
+### Theoretical basis
+- introduction
+    - CRs
+        - High-energy charged particles
+        - typical energy ~1GeV - relativistic
+        - energy density ~ 1eV cm^{-3} - equipatitionn with other component with ISM
+    - CR feedback
+        - CRs longer cooling time to Radiation pressure
+            - missing baryon problem
+        - many uncertainties
+    - ISM environment
+        - ISM: plasma + B field
+- Microphysical basis
+    - Alfven wave
+        - B field has tension, like string
+        - alfven velocity : B field tension + plasma inertia
+    - CRs can excite and scattered by Alfven wave
+        - Alfven wave: $v_\perp$ 
+        - B field: $\delta B$
+        - Lorentz force: $v_\perp$ cross $\delta B$ always anti-direction with $v_{||}$ 
+    - Gyroresonance
+        - $v_\perp$ and $\delta B$ rotate in same direction
+    - total results: wave-particle interaction
+        - CRs lose/gain energy
+        - isotropization: due to random walk 
+        - self-confinement : $v_{CR} \sim 10\ km\ c^{-1} \ll c$
+    - energy deposition: CRs energy will not be infinite
+        - wave loses energy to plasma
+        - if weak damping and large CR gradient, CR stronger
+- Macrophysical outcome
+    - wind
+### Observational Constraints
+- 3 channels
+    - radio emission
+        - degeneracy b field and CRs
+    - **Gamma-ray emission**: directly from CR
+    - X-ray on CGM: difficult to distinguish gas and CR
+- 3 origins of Gamma-ray emission
+    - pion 135 Mev
+    - CR leptons via inverse compton process
+    - Bremsstrahlung
+- EGRET observations onGRs from MW
+    - pion 135 Mev - most
+- Fermi observation on nearby SF galaxies
+- FIR-GR relation
+    - propagation process of CR
+        - advection: the bulk motion of the gas of plasma
+        - streaming: b field with alfven wave
+        - diffusion: random walk
+    - for starburst galaxies: close to calorimetric limit
+    - for normal galaxies: mostly leptons inverse compton process
+- CR frivent galactic winds
+    - Galactic winds
+        - Energy friven: thermal energy by SNe(starburst galaxies)
+        - momentum driven: radiation pressure(starburst galaxies)
+        - CR driven : pressure gradient or wave damping (**Normal disk galaxies?**)
+    - CR driven winds
+        - CR stable or unstable: hydrostatic equilibrium
+        - Streaming, scattering, constant
+
+## 11.15 - Exoplanets around white dwarfs
+by **Xiaoran Ma and Tian Yi**
+### introduction
+- Exoplanets around white dwarfs : exists?
+    - indirect evidence: 
+- Microlensing
+    - 2L1S:MOA-2010-BLG-443Lb(?)
+    - 3L1S
+- Trasit
+    - WD 1856+53
+### Formation and evolution of planets around white dwarfs
+-  f
+
+## 11.22 - galaxy-galaxy strong lenisng 
+by **Liyang Chen, Mingyu Li and Guanfu Liu**
+### What's GGSL? Is CDM wrong?
+- BG
+    - galaxy cluster
+        - largerst gravitationally bound
+        - 80-90% mass is DM
+    - galaxy-galaxy strong lensing
+        - not only can cluster can be a lens, one galaxy/subhalo can also be a lens
+        - time delay
+    - too many galaxy-galaxy strong lensing?
+        - observation v.s. simulation
+### observation perspective
+- galaxy cluster survey
+    - hubble space telescope
+    - VLT/MUSE survey
+    - ...
+- lens model
+    - lens model = mass distribution of mss
+    - dPIE(double Pseudo Isothermal Ellipsoid) + PIEMD(Pseudo Isothermal Ellipsoid Mass Distribution)
+    - free parametrs: $\sigma_v, r_{cut}, r_{core}, \epsilon$
+- reason of obs-simu gap?
+    - dPIE+PIEMD --> tNFW+PIEMD
+### simiualtion perspective
+- origin discrepancy between obs. and sim.?
+    - selection effects? no 
+    - numerical artifact? no
+    - feedback? no
+    - LCDM? don't know
+
+## 12.6 - Missing baryon problem: inconsistency between observation and theory
+by **Chenyang Ji and Jiayue Zhang**
+### 
+- theory
+    - CMB
+        - Baryonic fraction $\Omega_b$~0.03-0.04
+    - BBN
+        - $\Omega_b$~0.049
+- observation
+    - Lymand a forest
+        - $\Omega_b$~0.04
+    - where is the missing part?
+        - Warm/Hot Ionized IGM
+        - X-ray detection limit
+        - 1ES 1553+113 z =0.43
+### where are the missing baryons?
+- absorption line
+    - tracer: [OVI] UV, [O VII]
+    - limit: need point source
+- SZ effect
+    - Sunyaev-Zel'dovich effect
+    - inverse Compton scattering of CMB photons
+    - thermal SZ effect(tSZ)
+    - limit: low resolution, weak signals, low-distinguishing ability
+- emission line
+    - HUBS..
+- stacking
+    - principle: combining weak signals
+
+## 12.13 - Formation and evolution of globular culsters
+by **Chenyu Wang, Helong Huang and Yang Ni**
+### globular cluster
+- BG
+    - stellar cluster
+        - age: ~1Myr to >10 Gyr
+        - mass: 10^2 - 10^6
+    - open cluster v.s. globular cluster 
+- formation of globular cluster
+    - simple stellar population assumption
+        - GMC -runaway-> cluster
+    - observation reveal that not just one formation period
+    - further scenario:
+- observation
+    - Euclid
+    - Galaxy stellar mass v.s. GC stellar mass
+    - N_GC v.s. halo mass: near linear, why? in the next section
+- intracluster Globular Clusters(ICGC)
+    - GC bound to a galaxy cluster
+    - high-z globular cluster
+### How to form a globular cluster
+- galaxy born in the dark matter halo
+- how does the sub-cloud collapse
+    - ~10 pc
+    - free-fall timescale (~1/n^0.5) v.s. cooling timescale (~1/n)
+    - intersection: critical n_cloud
+- supernova feedback
+    - supernova removes the gas
+        - sub-cloud can collapse faster
+    - high z --> low metallicity --> higher cooling timescale --> larger n_cloud
+    - compare: supernova formation timescale and 
+- type of GCs
+    - popI GC: high metallicity, prefer high mass halo
+    - popII GC: metal poor, larger n_cloud, higher mass, compact, bluer, free from supernova feedback
+    - the linear relation is explained by the formation of PopII GCs
+- Dynamics
+    - tidal effect
+    - merger
+    - interaction
+### JWST "firefly sparkle" open clusters
+- "firefly sparkle" 
+    - first discovered by HST, further by JWST
+    - redshift ~ 8.3 (~600 Myr since the Big Bang)
+    - metal-poor environment: 12+log(O/H) = 7.05
+    - Top-heavy IMF
+    - star formation history
+        - 10 cluster:  10^5 - 10^6
+- Cosmic Gens Arc
+    - first discovered by HST, further by JWST
+    - redshift ~ 10
+    - 5 GCs

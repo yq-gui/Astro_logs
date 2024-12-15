@@ -1,8 +1,8 @@
 # ArXiv astrop-ph Journal 
 
-## 2024 Sept
+## 2024 September
 
-### Sept. 2 - Sept. 9 
+### Sept. 2 - Sept. 8 
 
 #### Relevant / Important / Useful
 
@@ -25,11 +25,15 @@
 - **Fig. 3.**!
 - Predict a very fast magnetisation (probably due to cold streams emerge) of the galaxy (10 Myr) which is consistent with the observed galaxy by Geach et al. (2023).
 
-#### Others
+
+
+
+### Sept.9 - Sept. 15
+
+### Sept. 16 - Sept. 22
 
 ### Sept. 23 - Sept. 29
 #### Relevant / Important / Useful
-
 ##### [The diverse star formation histories of early massive, quenched galaxies in modern galaxy formation simulations](https://arxiv.org/pdf/2409.16916)
 - study of the star formation histories of **massive-quenched** galaxies at 𝑧 = 3
 - methodology: simulation(compare 3 semi-analytic models **Shark, GAEA, Galform** and 3 cosmological hydrodynamical simulations **Eagle, Illustris-TNG, Simba**)
@@ -72,18 +76,82 @@
     - red core and spiral structure 
     - in a exceptionally dense environment (overdensity>=10)
 
-#### Others
-
-
+## 2024 October
 ### Sept. 30 - Oct. 6
-#### Relevant / Important / Useful
-
-#### Interesting / Keep in mind
-
-#### Others
-
 
 ### Oct. 7 - Oct. 13
+
+### Oct. 14 - Oct. 20
+
+### Oct. 21 - Oct. 27
+
+## 2024 November
+### Oct. 28 - Nov. 3
 #### Relevant / Important / Useful
+##### [ON THE ELEVATION AND SUPPRESSION OF STAR FORMATION WITHIN GALAXIES](http://arxiv.org/abs/1901.10276)
+(Enci Wang et al.)
+- Motivation
+- Method
+    - a well-defined sample of 976 star-forming MaNGA galaxies
+- Results
+    - Enhanced and Suppressed star forming galaxies show similar increase/decrease of SFR surface density at the central region.
+    - Lower depletion time at the central region results in large uncertainties of central SFR among a sample of galaxies.
+
+### Nov. 4 - Nov. 10
+
+### Nov. 11 - Nov. 17
+
+##### [Star Formation and Quenching of Central Galaxies from Stacked HI Measurements](https://arxiv.org/abs/2105.13505)
+(Hong Guo et al.)
+- Study the dependence of HI mass on stellar mass, halo mass, SFR and $\Sigma_1$ (stellar surface density within 1kpc). **compaction quenching **
+- Similar shapes of $M_{\rm HI}$-$M_\ast$ and $M_{\rm HI}$-M_halo, showing the direct driver of quenching is the depletion of HI resevior and stellar/halo masses influence indirectly.
+- **Rejuvenation** NOT Fig.3 as noted in the paper, but from right panel in Fig.4. For low-$M_\ast$ galaxies, SFR increases with $M_{\rm HI}$, meaning that these galaxies will return back to SFMS with the supplement of new HI gas. This is the "rejuvenation". For high-$M_\ast$ galaxies, the dependence of SFR on $M_{\rm HI}$ is weak, which means they are hard to get back to SF even with new gas, and the quenching of them can also be regulated by other processes.
+
 #### Interesting / Keep in mind
+##### [Cosmic accretion shocks as a tool to measure the dark matter mass of galaxy clusters](https://arxiv.org/abs/2407.01660)
+(David Vallés-Pérez et al.)
+- Propose the "plane" relation among halo mass M_h, shock radius R_sh and shock Mach number M to constrain (DM) mass to an error ~30%.
+- The accretion shock of clusters located at ~ 2-3 virial radius R_vir is anticipated to be observed in the future X-ray and radio observations.
+
 #### Others
+##### [CO(1--0) imaging reveals 10-kiloparsec molecular gas reservoirs around star-forming galaxies at high redshift](https://arxiv.org/abs/2411.06474)
+(Matus Rybak et al.)
+
+### Nov. 18 - Nov. 24
+#### Relevant / Important / Useful
+##### [Gas-phase Metallicity as a Diagnostic of the Drivers of Star-formation on Different Spatial Scales](https://arxiv.org/abs/2009.01935)
+(Enci Wang & Simon John Lilly)
+- Fundamental relation between stellar mass, gas metallicity (traced by O/H), star formation rate.
+- Changing gas inflow leads to an inverse proportional relation between SFR and log(O/H), while star formation efficiency (SFE) gives a proportional relation.
+- 100pc-scale IFU observations from MAD shows a proportional relation while an inversely proportional relation from galaxy-scale observations in MaNGA. This indicates the small-scale SFR is regulated by varying SFE and the galaxy-scale one by supplement of gas.
+
+### Nov. 25 - Dec. 1
+#### Relevant / Important / Useful
+##### [The origin of scatter in the star formation rate - stellar mass relation](https://arxiv.org/pdf/1805.05956)
+(Jorryt Matthee & Joop Schaye)
+- Using EAGLE simulation to study the mass dependence, evolution and origin of scatter in the star formation rate.
+- The scatter at z = 0.1 originates from a combination of fluctuations on short time-scales (ranging from 0.2-2 Gyr) associated with self-regulation from cooling, star formation and outflows and long time-scale (∼ 10 Gyr) variations related to differences in halo formation times.
+
+## 2024 December
+### Dec. 2 - Dec. 8
+#### Interesting / Keep in mind
+##### [First Measurements of the 4-Point Correlation Function of Magnetohydrodynamic Turbulence as a Novel Probe of the Interstellar Medium ](https://arxiv.org/pdf/2412.03967)
+(Victoria Willianmson et al.)
+- Theoretically using 4-Point Correlation Function (4PCF) to capture the non-Gaussian correlation from the highly non-linear turbulence of ISM. 
+- Simulations show magnetic field leads to parity-odd modes of the 4PCF which can be a clean test in the observational ramifications.
+
+
+### Dec. 9 - Dec. 15
+#### Relevant / Important / Useful
+##### [The Formation of Star-forming Disks in the TNG50 Simulation](https://arxiv.org/pdf/2412.03967)
+(Enci Wang et al.)
+- **EAGLE/IllustrisTNG successfully reproduce many observational facts about the galaxy population, including galaxy color bimodality, cold gas fraction, statistical properties of galaxy morphology, etc.**
+    - However, it is not clear whether these simulations are currently able to reproduce the detailed internal structure of galaxies.
+- Main-sequence star-forming galaxies from TNG50 tend to have larger star-forming disks, which may due to  continuous gas accretion rather than the consumption of pre-existing gas in galaxies.
+- The stellar surface density of TNG50 galaxies show good exponential profiles with the result of strong radial migration of stars, but it may not be realistic for real galaxies.
+
+##### [Enhanced Star Formation Efficiency in the Central Regions of Nearby Quasars Hosts](https://arxiv.org/abs/2212.05295)
+(Juan Molina, Luis C. Ho, etc.)
+- MUST/ALMA six low-redshift (z<0.06) Palomar–Green (PG) quasar host galaxies.
+- The enhance of the SFR surface density (Σ_SFR) ~ 0.15–0.80 Msun yr−1 kpc−2 with short depletion time (t_dep ≈ 0.2–2.0 Gyr).
+- No evidence of star formation activity shutoff
