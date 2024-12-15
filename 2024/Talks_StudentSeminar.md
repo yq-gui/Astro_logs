@@ -1,4 +1,6 @@
-## 9.20 - AGN wind
+# Note of talks in student seminar
+
+### 9.20 - Transient obscuring wind in type I AGN (AGN wind)
 by **Chunyang Jiang, Ruixuan Tian and Zihao Li**
 -  classification: 
     - intensity: Radio "quiet" / "loud"
@@ -42,7 +44,7 @@ by **Chunyang Jiang, Ruixuan Tian and Zihao Li**
                 - v ~ 5000 km/s
                 - kinematic luminosity sufficienty high AGN feedback
     
-## 9.27 - Magnetar
+### 9.27 - X-ray emission from Magnetar
 by **Zechang Sun and Youquan Fu**
 ##### Observational Facts on Magnetor
 - neutron stars
@@ -71,7 +73,7 @@ by **Zechang Sun and Youquan Fu**
     - ambipolar diffusion
     - hall drifts
 
-## 10.11 - Isolated quiescent dwarf galaxy
+### 10.11 - How does an isolated quiescent dwarf galaxy itself exist
 by **Yifan Zheng and Jiyuan Zhang**
 ##### PEARLSDG: 30Mpc
 - Star-forming and quenched galaixes
@@ -111,7 +113,7 @@ by **Yifan Zheng and Jiyuan Zhang**
         - quenching mechanism
             - **reionization** may quench dwarfs with $M_\ast < 10^6M_\odot$
 
-## 10.18 - Cosmic magnatic field
+### 10.18 - The origin of cosmic magnatic field
 by **Jiaxin Tang and Qiyue Qian**
 - Motivation
     - magnatic monopole
@@ -160,9 +162,9 @@ by **Jiaxin Tang and Qiyue Qian**
             - Zeeman probe for molecular gas : trace the transition from HI and H2
         - Zeeman effect for composition
 
-## 10.25 - Mean motion of planetary orbit
+### 10.25 - Mean motion resonances in planetary system
 by **Sijia Cai, Haibing Ren and Zhecheng Hu**
-### Resonances
+##### Resonances
 - Resonances in solar system
     - neptum and pluto : 3:2
     - Asteroid main-belt distribution : influenced by Jupiter
@@ -184,7 +186,7 @@ by **Sijia Cai, Haibing Ren and Zhecheng Hu**
     - obrit migration leads to capture/break resonance
         - tidal dampling
         - disk migration
-### Convergent Migration --Mean Motion Resonace Capture
+##### Convergent Migration -- Mean Motion Resonace Capture
 - planet in protoplanetary disk
     - Cloud collapse -- star (Jeans instability)
     - Migration in disk
@@ -199,7 +201,7 @@ by **Sijia Cai, Haibing Ren and Zhecheng Hu**
         Usually Lindblad torque > Corotation torque, so planet rotates inward
     - convergent migration
 
-### Breaks the chains: from resonant chains to keplerian planets
+##### Breaks the chains -- from resonant chains to keplerian planets
 - why are  many planet systems not resonant?
     - 1st order resonance occur just 15%
     - Break-the-Chains model
@@ -213,9 +215,9 @@ by **Sijia Cai, Haibing Ren and Zhecheng Hu**
     - mass loss of atmosphere: photoevaporation due to XUV heating by stars
     - born with instability
 
-## 11.1 - Dark energy constraints from Baryon Acoustic Oscillation
+### 11.1 - Dark energy constraints from Baryon Acoustic Oscillation
 by **Qinnan Zhu, Jiayi Chen and Yao Zhang**
-### concept and theory of dark energy & common observational probes
+##### concept and theory of dark energy & common observational probes
 - Einstein' equation and accelerating expasion
     - dark energy
     - Theory
@@ -232,7 +234,7 @@ by **Qinnan Zhu, Jiayi Chen and Yao Zhang**
         - BAO
         - galaxy clustering
         - weak lensing
-### using BAO dark energy properties
+##### using BAO dark energy properties
 - BAO: peaked at 150 Mpc
 - spectroscopic sky survey - redshift and celestial coordiants
 - How does BAO constrains cosmological parameters?
@@ -243,7 +245,7 @@ by **Qinnan Zhu, Jiayi Chen and Yao Zhang**
     - observables: BAO monople $\alpha_{iso} = (\alpha_{\perp}^2\alpha_{||})^{1/3}$ and BAO quadraple $\alpha_{AP} = \alpha_{\perp}/\alpha_{||}$
     ==> $\frac{H(z)}{H_0}$
 - Observation : DESI
-### dark energy constraints from BAO
+##### dark energy constraints from BAO
 - DESI
     - 5 target classes
         - Bright Galaxiess
@@ -262,9 +264,9 @@ by **Qinnan Zhu, Jiayi Chen and Yao Zhang**
             - w = w_0 + w_a(1-a)
             - DESI: w_a increases with time
 
-## 11.8 - Cosmic-ray feedback
+### 11.8 - Cosmic-ray feedback
 by **Jin Qin and Pengjun Lu**
-### Theoretical basis
+##### Theoretical basis
 - introduction
     - CRs
         - High-energy charged particles
@@ -295,7 +297,7 @@ by **Jin Qin and Pengjun Lu**
         - if weak damping and large CR gradient, CR stronger
 - Macrophysical outcome
     - wind
-### Observational Constraints
+##### Observational Constraints
 - 3 channels
     - radio emission
         - degeneracy b field and CRs
@@ -324,9 +326,9 @@ by **Jin Qin and Pengjun Lu**
         - CR stable or unstable: hydrostatic equilibrium
         - Streaming, scattering, constant
 
-## 11.15 - Exoplanets around white dwarfs
+### 11.15 - Exoplanets around white dwarfs
 by **Xiaoran Ma and Tian Yi**
-### introduction
+##### introduction
 - Exoplanets around white dwarfs : exists?
     - indirect evidence: 
 - Microlensing
@@ -334,12 +336,12 @@ by **Xiaoran Ma and Tian Yi**
     - 3L1S
 - Trasit
     - WD 1856+53
-### Formation and evolution of planets around white dwarfs
+##### Formation and evolution of planets around white dwarfs
 -  f
 
-## 11.22 - galaxy-galaxy strong lenisng 
+### 11.22 - Tensions on small scles: too many galaxy-galaxy strong lenses in galaxy clusters
 by **Liyang Chen, Mingyu Li and Guanfu Liu**
-### What's GGSL? Is CDM wrong?
+##### What's GGSL? Is CDM wrong?
 - BG
     - galaxy cluster
         - largerst gravitationally bound
@@ -349,7 +351,7 @@ by **Liyang Chen, Mingyu Li and Guanfu Liu**
         - time delay
     - too many galaxy-galaxy strong lensing?
         - observation v.s. simulation
-### observation perspective
+##### observation perspective
 - galaxy cluster survey
     - hubble space telescope
     - VLT/MUSE survey
@@ -360,16 +362,19 @@ by **Liyang Chen, Mingyu Li and Guanfu Liu**
     - free parametrs: $\sigma_v, r_{cut}, r_{core}, \epsilon$
 - reason of obs-simu gap?
     - dPIE+PIEMD --> tNFW+PIEMD
-### simiualtion perspective
+##### simiualtion perspective
 - origin discrepancy between obs. and sim.?
     - selection effects? no 
     - numerical artifact? no
     - feedback? no
     - LCDM? don't know
 
-## 12.6 - Missing baryon problem: inconsistency between observation and theory
+### 11.29 - Directly imaging exoplanets
+by **Zhejian Zhang and Tianhao Li**
+
+### 12.6 - Missing baryon problem: inconsistency between observation and theory
 by **Chenyang Ji and Jiayue Zhang**
-### 
+##### 
 - theory
     - CMB
         - Baryonic fraction $\Omega_b$~0.03-0.04
@@ -382,7 +387,7 @@ by **Chenyang Ji and Jiayue Zhang**
         - Warm/Hot Ionized IGM
         - X-ray detection limit
         - 1ES 1553+113 z =0.43
-### where are the missing baryons?
+##### where are the missing baryons?
 - absorption line
     - tracer: [OVI] UV, [O VII]
     - limit: need point source
@@ -396,9 +401,9 @@ by **Chenyang Ji and Jiayue Zhang**
 - stacking
     - principle: combining weak signals
 
-## 12.13 - Formation and evolution of globular culsters
+### 12.13 - Formation and evolution of globular culsters
 by **Chenyu Wang, Helong Huang and Yang Ni**
-### globular cluster
+##### globular cluster
 - BG
     - stellar cluster
         - age: ~1Myr to >10 Gyr
@@ -416,7 +421,7 @@ by **Chenyu Wang, Helong Huang and Yang Ni**
 - intracluster Globular Clusters(ICGC)
     - GC bound to a galaxy cluster
     - high-z globular cluster
-### How to form a globular cluster
+##### How to form a globular cluster
 - galaxy born in the dark matter halo
 - how does the sub-cloud collapse
     - ~10 pc
@@ -435,7 +440,7 @@ by **Chenyu Wang, Helong Huang and Yang Ni**
     - tidal effect
     - merger
     - interaction
-### JWST "firefly sparkle" open clusters
+##### JWST "firefly sparkle" open clusters
 - "firefly sparkle" 
     - first discovered by HST, further by JWST
     - redshift ~ 8.3 (~600 Myr since the Big Bang)
@@ -447,3 +452,9 @@ by **Chenyu Wang, Helong Huang and Yang Ni**
     - first discovered by HST, further by JWST
     - redshift ~ 10
     - 5 GCs
+
+### 12.20 - Uncertainty quantification in astrophysical parameter inference with AI
+by **Leyao Wei and Liyang Chen**
+
+### 12.27 - Quiescent galaxy abundance at high redshift universe - a much higher quiescent fraction at high redshift than expected
+by **Ce Gao, Zhuoyang Li and Xincheng Zhu**
