@@ -720,3 +720,28 @@ by **Jeremy Lim** from **HKU** in **Informal Talk**, 12.12
     - in simulation: ultra-light DM with different realisation
 
 ### Dec. 16 - Dec. 22
+#### "Unveiling the Interstellar Medium from High-Resolution Interferometric Observations"
+by **Yixian Cao 曹一贤** from **MPE** in **group meeting**, 12.19
+- BG： High-Resolution Interferometric Observations
+    - VLT NIR
+    - 基线
+- work 1: AGN central region
+    - 仪器：VLT 4个望远镜干涉 Interferometer
+    - AGN附近电离气体BLR（sub pc），再往外dust torus
+    - 尺度
+        - BLR：sub pc， ～muas
+        - dust： 1pc-100pc，  ～mas
+    - 基线长度～100m，观测波段2miron，分辨率很难达到
+    - 纯粹用imaging做只能做到3mas，但可以用频率空间采样可以做到1mas以下
+        - 假设分布的gaussian的，那么在频率空间也是gaussian，只是一个宽一个窄
+        - visibility - k： psf drop
+        - 测dust：L= 4\pi R^2 F: 假设dust的温度统一，那么R v.s. L 的斜率是0.5
+            - 测出来17个源，结果0.45+-0.05
+            - 另一个问题：用reverberation mapping（测dust光变曲线）的方法和用interferometer测出来的size不一样（interferometer更大，可能是由于dust盘的flur）
+- work 2: ALMA millimeter nearby galaxy molecular clouds
+    - founds ALMA, CALIFA
+    - 检验KS law
+    - 12CO 观测molecular gas
+        - 好处：有偶极矩，量很多
+        - 坏处：一般光厚，看不清里面细节
+    - 丰度13CO ~ 1/40 12CO

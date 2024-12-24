@@ -100,7 +100,7 @@
 ### Nov. 4 - Nov. 10
 
 ### Nov. 11 - Nov. 17
-
+#### Relevant / Important / Useful
 ##### [Star Formation and Quenching of Central Galaxies from Stacked HI Measurements](https://arxiv.org/abs/2105.13505)
 (Hong Guo et al.)
 - Study the dependence of HI mass on stellar mass, halo mass, SFR and $\Sigma_1$ (stellar surface density within 1kpc). **compaction quenching **
@@ -155,3 +155,24 @@
 - MUST/ALMA six low-redshift (z<0.06) Palomar–Green (PG) quasar host galaxies.
 - The enhance of the SFR surface density (Σ_SFR) ~ 0.15–0.80 Msun yr−1 kpc−2 with short depletion time (t_dep ≈ 0.2–2.0 Gyr).
 - No evidence of star formation activity shutoff
+
+
+### Dec. 16 - Dec. 22
+#### Relevant / Important / Useful
+##### [Revisiting the fundamental metallicity relation with observation and simulation](https://arxiv.org/pdf/2407.21716)
+(Chengyu Ma et al.)
+- MaNGA and TNG50: $M_\ast/R_e^\beta$ is in much stronger correlation to the gas-phase metallicity than $M_\ast$ alone. 
+- SFR modulates metallicity on the temporal dimension, synchronized with time-varying gas inflows.
+= galaxy size regulates metallicity on the spatial dimension by affecting the gravitational potential and the mass loading factor
+#### Interesting / Keep in mind
+##### [Evolution of the star formation rate surface density main sequence - Insights from a semi-analytic simulation since z = 12](https://arxiv.org/pdf/2412.00188)
+(Jakub Nadolny et al.)
+- L-Galaxies2020 semi-analytical model : Star formation rate surface density main sequence(Σ_SFR MS). 
+- Galaxies with different stellar masses have different paths of Σ_SFR evolution. 
+- The slope of Σ_SFR MS at different redshift is dominated by massive galaxies.
+##### [A nuclear spiral in a dusty star-forming galaxy at 𝒛 = 2.78](https://arxiv.org/pdf/2412.03644)
+(H. R. Stacey et al.)
+- ALMA continuum observation of a gravitationally lensed dusty star-forming galaxy at 𝑧 = 2.78
+- A nuclear bar in the central 300 pc play a role in accumulating cold gas, which leads to reduce gas angular momentum such that it flows into the central kpc fast.
+
+### Dec. 23 - Dec. 29

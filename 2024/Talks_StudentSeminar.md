@@ -454,7 +454,31 @@ by **Chenyu Wang, Helong Huang and Yang Ni**
     - 5 GCs
 
 ### 12.20 - Uncertainty quantification in astrophysical parameter inference with AI
-by **Leyao Wei and Liyang Chen**
+by **Leyao Wei and Fangzhou Guo**
+#### uncertainty quantification in astrophysical parameter inference with AI: ML in astrophysics and the role of Uncertainty quantification
+- basic tasks
+    - accelerating parameter inference
+    - classification
+        - the light curves of variable stars
+    - anomaly detection
+        - constructing a statistical model for nominal data
+        - hard to distinguish observational defects and spurious inference
+    - generative modeling, large language model
+- uncertainty quantification
+    - what kind of uncertainties
+        - aleatoric uncertainties: data uncertainty, inheretant noise
+        - epistemic uncertainties: model uncertainty, limitations of model
+    - bayesian neural networks (BNN)
+        - VI: variational inference
+        - bayesian active learning
+        - bayes by backprop
+    - ensemble learning (EL)
+        - deep ensemble
+#### simulation based inference & bayesian neural network
+- paramerter posterior inference
+    - uncertainty 
+
 
 ### 12.27 - Quiescent galaxy abundance at high redshift universe - a much higher quiescent fraction at high redshift than expected
 by **Ce Gao, Zhuoyang Li and Xincheng Zhu**
+

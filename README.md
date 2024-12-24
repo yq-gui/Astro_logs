@@ -2,7 +2,7 @@
 - Author: yq-gui
 - Email: guiyq.thu@gmail.com
 
-Here are 2 kinds of notes which will berecorded. In each file name by year, there are:
+Here are 2 kinds of notes which will be recorded. In each file name by year, there are:
 ## Astroph_reading
 - "astroph-xxxx.md": notes about **Astro-ph reading**.
 ## Talks
