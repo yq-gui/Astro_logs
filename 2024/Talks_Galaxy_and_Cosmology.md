@@ -745,3 +745,5 @@ by **Yixian Cao 曹一贤** from **MPE** in **group meeting**, 12.19
         - 好处：有偶极矩，量很多
         - 坏处：一般光厚，看不清里面细节
     - 丰度13CO ~ 1/40 12CO
+
+### Dec. 23 - Dec. 29
